@@ -6,4 +6,4 @@ I dont put alot of time into LeetCode as i see it as more a "For fun" activity, 
 
 Messy strucure in Git, way better once cloned (Atleast in Rider)
 
-LeetCodeProblems done in Csharp
+My Solution to LeetCode problems in C#, these Solutions is 9/10 the Solution I came up with, as we have not yet begun our "Data strucures and Algorithms" course some of these solutions are far from optimal, but learning them is fun nonetheless.
