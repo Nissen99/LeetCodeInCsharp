@@ -36,6 +36,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Best Time to Buy and Sell S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intersection of Two Arrays II 350", "Intersection of Two Arrays II 350\Intersection of Two Arrays II 350.csproj", "{60E362E7-55AD-4E2B-8FDC-55AFC203E0CA}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Random Questions", "Random Questions", "{EDA6ADD0-C0B7-469B-A6C3-EBAC1169FBF5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
